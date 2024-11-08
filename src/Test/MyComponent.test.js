@@ -16,3 +16,4 @@ describe('MyComponent', () => {
         getByText('Contar: 1') // Verifica que el contador se incrementó
     })
 })
+
